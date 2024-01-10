@@ -1,18 +1,21 @@
-## Version 0.7.1
+# Admin Console
+
+## NPM Modules
 `npm i react-pro-sidebar@0.7.1`
 This will help with getting the correct react css files loaded.
-original npm module
-`npm i react-pro-sidebar`
 
-### Other NPM Modules
+original npm module
+`npm i react-pro-sidebar` <-- updated version but missing css files
+
+Full NPM Module list
 ```
 npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
 ```
 
-# Getting GH-Pages working with React
+## Getting GH-Pages working with React
 `npm add gh-pages`
 
-# Package.json
+### Package.json
 ```
 {
   "name": "starter-project",
@@ -33,7 +36,7 @@ npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-m
   },
 ```
 
-# Next step
+### Next step
 `npm run deploy`
 
-# React pages will be active on your repo
+## React pages will be active on your repo
