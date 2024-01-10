@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin_console/static/css/main.c7687bd7.css",
+    "main.js": "/admin_console/static/js/main.5484b84f.js",
+    "index.html": "/admin_console/index.html",
+    "main.c7687bd7.css.map": "/admin_console/static/css/main.c7687bd7.css.map",
+    "main.5484b84f.js.map": "/admin_console/static/js/main.5484b84f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7687bd7.css",
+    "static/js/main.5484b84f.js"
+  ]
+}
