@@ -1,3 +1,32 @@
 ## Version 0.7.1
 `npm i react-pro-sidebar@0.7.1`
 This will help with getting the correct react css files loaded.
+
+# Getting GH-Pages working with React
+`npm add gh-pages`
+
+# Package.json
+```
+{
+  "name": "starter-project",
+  "homepage": "https://tomerpacific.github.io/starter-project/", <---- add gh-pages
+  "version": "0.1.0",
+  /....
+}
+```
+
+```
+"scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build", <----------- #1 add
+    "deploy": "gh-pages -d build", <---------- #2 add
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+```
+
+# Next step
+`npm run deploy`
+
+# React pages will be active on your repo
