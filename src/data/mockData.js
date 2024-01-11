@@ -78,9 +78,9 @@ export const mockDataTeam = [
 export const mockDataContacts = [
   {
     id: 1,
-    name: "Jon Snow",
-    email: "jonsnow@gmail.com",
-    age: 35,
+    name: "Charles Sanders",
+    email: "sandseclos@gmail.com",
+    age: 40,
     phone: "(665)121-5454",
     address: "0912 Won Street, Alabama, SY 10001",
     city: "New York",
@@ -202,8 +202,8 @@ export const mockDataContacts = [
 export const mockDataInvoices = [
   {
     id: 1,
-    name: "Jon Snow",
-    email: "jonsnow@gmail.com",
+    name: "Charles Sanders",
+    email: "sandseclos@gmail.com",
     cost: "21.24",
     phone: "(665)121-5454",
     date: "03/12/2022",
@@ -269,7 +269,7 @@ export const mockDataInvoices = [
 export const mockTransactions = [
   {
     txId: "01e4dsa",
-    user: "johndoe",
+    user: "charsanders",
     date: "2021-09-01",
     cost: "43.95",
   },
