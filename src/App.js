@@ -45,10 +45,10 @@ function App() {
 
             </Routes>
           </main>
-        </div>;
+        </div>
       </ThemeProvider>
     </ColorModeContext.Provider>
- );
-}
+  );
+};
 
 export default App;
