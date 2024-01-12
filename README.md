@@ -51,3 +51,8 @@ Run the following command to deploy your application:
 
 ## React pages will be active on your repo
 After running the deploy command, your React pages will be active on your GitHub repository
+
+## Links
+https://nivo.rocks/
+
+
