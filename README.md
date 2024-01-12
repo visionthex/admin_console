@@ -53,6 +53,10 @@ Run the following command to deploy your application:
 After running the deploy command, your React pages will be active on your GitHub repository
 
 ## Links
-https://nivo.rocks/
+https://nivo.rocks
+https://mui.com/material-ui/getting-started/templates/
+https://fullcalendar.io
+https://formik.org/
+https://www.npmjs.com/package/@emotion/react
 
 
