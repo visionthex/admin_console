@@ -6,7 +6,7 @@ import AccordionDetails from '@mui/material/AccordionDetails';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { tokens } from '../../theme';
 
-const FAQ = () => {
+const Faq = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
 
@@ -80,4 +80,4 @@ const FAQ = () => {
   );
 };
 
-export default FAQ;
+export default Faq;
