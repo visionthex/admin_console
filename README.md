@@ -27,7 +27,7 @@ Update your package.json file:
 ```
 {
   "name": "starter-project",
-  "homepage": "https://tomerpacific.github.io/starter-project/", <---- add gh-pages
+  "homepage": "https://UserName_Here.github.io/starter-project-Here/", <---- add gh-pages
   "version": "0.1.0",
   /....
 }
