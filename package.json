@@ -22,7 +22,7 @@
     "@nivo/pie": "^0.84.0",
     "@testing-library/jest-dom": "^6.3.0",
     "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/user-event": "^14.5.2",
     "formik": "^2.4.5",
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
