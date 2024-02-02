@@ -1,6 +1,6 @@
 {
   "name": "admin_console",
-  "homepage": "https://visionthex.github.io/admin_console/",
+  "homepage": "https://adminconsole.codesimp.dev/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
